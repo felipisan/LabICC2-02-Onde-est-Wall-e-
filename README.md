@@ -14,7 +14,8 @@ A seguir, a entrada contém um número inteiro $q$, sendo $0 < q \leq 10^6$ que 
 
 ## Implementação da Busca Sequencial
 
-![*Print da função busca_sequencial()*](README%2022c65f7d530b4159a079221c7915e95a/Untitled.png)
+![*Print da função busca_sequencial()*](https://user-images.githubusercontent.com/38444497/192427992-64565c54-84ba-4daf-964b-4f1d8a0974ed.png)
+
 
 *Print da função busca_sequencial()*
 
@@ -24,7 +25,8 @@ Existe uma variação desse algoritmo conhecida como Busca Sequencial Indexada q
 
 ## Implementação da Busca Binária (versão recursiva)
 
-![*Print da função buscaBinaria_recursiva()* ](README%2022c65f7d530b4159a079221c7915e95a/Untitled%201.png)
+![*Print da função buscaBinaria_recursiva()* ](https://user-images.githubusercontent.com/38444497/192428041-db9fd853-9666-4e29-9a8a-8d9bb33af96b.png)
+
 
 *Print da função buscaBinaria_recursiva()* 
 
@@ -38,11 +40,13 @@ A complexidade de tempo para a busca binária recursiva é $O(log_2{n})$. Já a 
 
 ### 1. Tempo de Execução da Busca Sequencial
 
-![Untitled](README%2022c65f7d530b4159a079221c7915e95a/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/38444497/192428112-3abad4b3-dedf-4ed1-85d3-a864cbcbd4a9.png)
+
 
 ### 2. Tempo de execução da da Busca Binária Recursiva
 
-![Untitled](README%2022c65f7d530b4159a079221c7915e95a/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/38444497/192428130-897a60c0-fcaa-418d-b413-b87cb5bd0f96.png)
+
 
 ### Tabela comparativa
 
