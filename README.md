@@ -50,8 +50,10 @@ A complexidade de tempo para a busca binária recursiva é $O(log_2{n})$. Já a 
 
 ### Tabela comparativa
 
+| Casos | k elementos | q buscas | Tempo (busca sequencial) | Tempo (busca binária) | Diferença |
 | --- | --- | --- | --- | --- | --- |
-
+| #1 | 50 | 100 | 1ms | 1ms | 0ms |
+| #2 | 500 | 900 | 2ms | 1ms | 1ms |
 | #3 | 500 | 1000 | 1ms | 1ms | 0ms |
 | #4 | 50 | 900000 | 77ms | 47ms | 30ms |
 | #5 | 50 | 100000 | 12ms | 10ms | 2ms |
